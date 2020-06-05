@@ -1,0 +1,3 @@
+[submodule "simple-paperspace-ctrl"]
+	path = simple-paperspace-ctrl
+	url = https://github.com/yuri-becker/simple-paperspace-ctrl
